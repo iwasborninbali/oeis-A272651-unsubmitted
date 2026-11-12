@@ -1,0 +1,17 @@
+OK 106 162 collinear triples: 0 n106_162.txt
+OK 118 181 collinear triples: 0 n118_181.txt
+OK 122 192 collinear triples: 0 n122_192.txt
+OK 134 210 collinear triples: 0 n134_210.txt
+OK 142 221 collinear triples: 0 n142_221.txt
+OK 146 224 collinear triples: 0 n146_224.txt
+OK 158 241 collinear triples: 0 n158_241.txt
+OK 166 258 collinear triples: 0 n166_258.txt
+OK 178 273 collinear triples: 0 n178_273.txt
+OK 194 303 collinear triples: 0 n194_303.txt
+OK 202 313 collinear triples: 0 n202_313.txt
+OK 302 472 collinear triples: 0 n302_472.txt
+OK 398 616 collinear triples: 0 n398_616.txt
+python3 verification/check_triples.py data/witnesses/n1*.txt    8.96s user 0.02s system 99% cpu 9.005 total
+OK 502 771 collinear triples: 0 n502_771.txt
+OK 614 948 collinear triples: 0 n614_948.txt
+OK 802 1226 collinear triples: 0 n802_1226.txt
